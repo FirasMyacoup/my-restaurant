@@ -10,6 +10,11 @@ name: firas restaurant
 [what is falafel](https://www.foodnetwork.com/how-to/packages/food-network-essentials/what-is-falafel)
 ![falafel](https://e7.pngegg.com/pngimages/569/504/png-clipart-falafel-falafel.png)
 
+![wireframe for the home page](./wireframe.png)
+![wireframe for the about us page](./wireframe2.png)
+
+
+
 
 
 
