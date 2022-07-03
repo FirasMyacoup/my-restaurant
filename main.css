@@ -67,8 +67,9 @@ width: 15%;
 .main-pic img
 {
 width: 40%;
-height: 400px;
+height: 350px;
 background-size: contain;
+margin-left: 400px;
 }
 .main_info
 {
@@ -95,4 +96,8 @@ footer div
 {
 text-align: center;
 
+}
+.discription{
+  text-align: center;
+  font-size: larger;
 }
